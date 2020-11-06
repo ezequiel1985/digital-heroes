@@ -6,7 +6,7 @@ app.get('*', function (req, res) {
     res.sendFile(__dirname + '/public/' + req.url)
 })
 
-# En GITHUN
+# En GITHUB
 1) copiamos la URL del repositorio que queremos trabajar.
 
 # En TERMINAL/CONSOLA
